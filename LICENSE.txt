@@ -1,0 +1,61 @@
+SLATE MEDIA TRANSFER CONSOLE
+CUSTOM PROPRIETARY LICENSE
+
+Copyright (c) 2026 ARINTAIL MEDIA PRODUCTIONS
+Developer: NIGHT SKY (ARINTAIL MEDIA PRODUCTIONS / OCEAN TURTLE STUDIOS)
+
+This software, including its compiled binaries, branding, design, original
+assets, and documentation, is proprietary and is provided free of charge for
+personal use.
+
+1. PERMISSIONS
+
+You are permitted to:
+- Download official Slate binaries from the official release channels.
+- Install and run Slate on your own devices.
+- Use Slate for personal, non-commercial media transfer tasks.
+
+2. RESTRICTIONS
+
+You are not permitted to:
+- Claim ownership of Slate or its original branding, design, or assets.
+- Distribute modified binaries as official Slate releases.
+- Remove or alter applicable copyright, attribution, or license notices.
+- Reverse engineer, decompile, or disassemble the software in a manner
+  prohibited by applicable law.
+- Use Slate's branding to imply endorsement by Arintail Media Productions
+  or Ocean Turtle Studios without permission.
+
+3. NO SOURCE CODE ACCESS
+
+Slate is distributed as compiled binaries only. No source code is provided
+or licensed under this agreement.
+
+4. DONATIONS
+
+Slate is free to use. Voluntary donations are permitted and appreciated,
+but are never required to use the software.
+
+5. THIRD-PARTY SOFTWARE
+
+Slate incorporates and invokes third-party software, including yt-dlp and
+FFmpeg. These components are NOT covered by this proprietary license and
+remain governed by their own applicable licenses. See
+THIRD-PARTY-NOTICES.md for details.
+
+6. NO WARRANTY
+
+Slate is provided "AS IS", without warranty of any kind, express or implied,
+including but not limited to the warranties of merchantability, fitness for
+a particular purpose, and non-infringement. In no event shall Arintail Media
+Productions or the developer be liable for any claim, damages, or other
+liability arising from the use of this software.
+
+7. GOVERNING LAW
+
+This license is governed by the laws of the jurisdiction in which the
+copyright holder resides, subject to applicable local law. If any provision
+is found unenforceable, the remaining provisions remain in effect.
+
+This is a custom proprietary license. It is not an OSI-approved open-source
+license. Slate is not open source.
