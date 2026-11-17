@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-  <img alt="Release" src="https://img.shields.io/badge/release-v1.0.0-161614" />
-  <img alt="Platform" src="https://img.shields.io/badge/platform-Windows-161614" />
-  <img alt="Price" src="https://img.shields.io/badge/price-Free-161614" />
-  <img alt="License" src="https://img.shields.io/badge/license-Proprietary-161614" />
+  <img alt="Release" src="https://img.shields.io/badge/release-v1.0.0-2563eb" />
+  <img alt="Platform" src="https://img.shields.io/badge/platform-Windows-0ea5e9" />
+  <img alt="Price" src="https://img.shields.io/badge/price-Free-16a34a" />
+  <img alt="License" src="https://img.shields.io/badge/license-AFUL--1.0-f59e0b" />
 </p>
 
 Slate is an independent Windows media transfer application designed to provide a focused and straightforward workspace for media retrieval and processing.
@@ -124,6 +124,12 @@ These are independent projects with their own licenses.
 - FFmpeg — https://ffmpeg.org/
 
 See `THIRD-PARTY-NOTICES.md` for licensing details.
+
+---
+
+## License
+
+Slate is proprietary software distributed free of charge under the **Arintail Free Use License (AFUL-1.0)**. It is not open source. See `LICENSE.txt` for the full terms and `THIRD-PARTY-NOTICES.md` for third-party acknowledgements.
 
 ---
 

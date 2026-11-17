@@ -1,61 +1,181 @@
-SLATE MEDIA TRANSFER CONSOLE
-CUSTOM PROPRIETARY LICENSE
+================================================================================
+ARINTAIL FREE USE LICENSE
+License identifier: AFUL-1.0
+================================================================================
 
-Copyright (c) 2026 ARINTAIL MEDIA PRODUCTIONS
-Developer: NIGHT SKY (ARINTAIL MEDIA PRODUCTIONS / OCEAN TURTLE STUDIOS)
-
-This software, including its compiled binaries, branding, design, original
-assets, and documentation, is proprietary and is provided free of charge for
-personal use.
-
-1. PERMISSIONS
-
-You are permitted to:
-- Download official Slate binaries from the official release channels.
-- Install and run Slate on your own devices.
-- Use Slate for personal, non-commercial media transfer tasks.
-
-2. RESTRICTIONS
-
-You are not permitted to:
-- Claim ownership of Slate or its original branding, design, or assets.
-- Distribute modified binaries as official Slate releases.
-- Remove or alter applicable copyright, attribution, or license notices.
-- Reverse engineer, decompile, or disassemble the software in a manner
-  prohibited by applicable law.
-- Use Slate's branding to imply endorsement by Arintail Media Productions
-  or Ocean Turtle Studios without permission.
-
-3. NO SOURCE CODE ACCESS
-
-Slate is distributed as compiled binaries only. No source code is provided
-or licensed under this agreement.
-
-4. DONATIONS
-
-Slate is free to use. Voluntary donations are permitted and appreciated,
-but are never required to use the software.
-
-5. THIRD-PARTY SOFTWARE
-
-Slate incorporates and invokes third-party software, including yt-dlp and
-FFmpeg. These components are NOT covered by this proprietary license and
-remain governed by their own applicable licenses. See
-THIRD-PARTY-NOTICES.md for details.
-
-6. NO WARRANTY
-
-Slate is provided "AS IS", without warranty of any kind, express or implied,
-including but not limited to the warranties of merchantability, fitness for
-a particular purpose, and non-infringement. In no event shall Arintail Media
-Productions or the developer be liable for any claim, damages, or other
-liability arising from the use of this software.
-
-7. GOVERNING LAW
-
-This license is governed by the laws of the jurisdiction in which the
-copyright holder resides, subject to applicable local law. If any provision
-is found unenforceable, the remaining provisions remain in effect.
+Product: SLATE MEDIA TRANSFER CONSOLE
+Short name: SLATE
+Parent organization: ARINTAIL MEDIA PRODUCTIONS
+Creative division: OCEAN TURTLE STUDIOS
+Copyright: (c) 2026 ARINTAIL MEDIA PRODUCTIONS
+Developer identity: NIGHT SKY
 
 This is a custom proprietary license. It is not an OSI-approved open-source
 license. Slate is not open source.
+
+--------------------------------------------------------------------------------
+1. PERMISSIONS
+--------------------------------------------------------------------------------
+
+Subject to the terms of this license, you are permitted to:
+
+1.1 Download official Slate releases from official distribution channels free
+    of charge.
+
+1.2 Install and use Slate for personal, educational, and commercial purposes
+    without payment, donation, or subscription.
+
+1.3 Share links to official Slate download pages and release channels.
+
+1.4 Redistribute complete, unmodified copies of officially released Slate binary
+    distributions, including installers, portable executables, and ZIP packages,
+    provided that:
+
+    - The distributed files remain completely unmodified.
+    - All original copyright, attribution, and license notices are preserved.
+    - The distribution is not presented as an independently developed or
+      modified product.
+    - No fee is charged for the Slate software itself.
+    - Redistribution does not imply endorsement or affiliation with ARINTAIL
+      MEDIA PRODUCTIONS.
+
+1.5 Make voluntary donations. Donations are entirely optional and never required
+    to access, install, redistribute, or use Slate.
+
+No payment, donation, or subscription is required for access to official
+releases.
+
+--------------------------------------------------------------------------------
+2. OWNERSHIP AND RESTRICTIONS
+--------------------------------------------------------------------------------
+
+2.1 The copyright holder retains ownership of Slate's original source code,
+    original application design, branding, and original assets, subject to
+    applicable law and third-party rights.
+
+2.2 This license does not grant permission to publish, modify, or distribute
+    modified versions of Slate's proprietary source code or application
+    binaries.
+
+2.3 You must not misrepresent modified, repackaged, or unofficial copies as
+    official Slate releases.
+
+2.4 You must not remove, obscure, or misrepresent applicable copyright,
+    attribution, or license notices.
+
+2.5 No trademark rights are granted through this license. Names and branding
+    associated with Slate and its respective organizations remain subject to
+    the rights of their respective owners.
+
+2.6 Nothing in this license restricts conduct permitted by applicable law or
+    third-party licenses, nor does it grant rights beyond what those laws and
+    licenses allow.
+
+--------------------------------------------------------------------------------
+3. THIRD-PARTY SOFTWARE AND DEPENDENCIES
+--------------------------------------------------------------------------------
+
+Slate depends on third-party software, including yt-dlp and FFmpeg. These
+components are not covered by AFUL-1.0 and remain governed by their own
+applicable licenses.
+
+3.1 Arintail Media Productions does not claim ownership of third-party
+    software.
+
+3.2 AFUL-1.0 does not override, replace, or restrict the permissions granted
+    by third-party licenses.
+
+3.3 The exact third-party components and versions distributed with a given
+    Slate release are identified in THIRD-PARTY-NOTICES.txt and in the
+    application's About Us page.
+
+3.4 Required third-party copyright notices, license texts, and other
+    compliance materials are provided with the application distribution where
+    applicable.
+
+3.5 If a dependency requires source-code availability, corresponding source,
+    or a written offer, those requirements must be satisfied separately and
+    are not waived by this license.
+
+3.6 Additional third-party components (including any future dependency) must
+    be reviewed for license compatibility and redistribution obligations
+    before integration.
+
+3.7 A short acknowledgement in the application interface does not by itself
+    satisfy all redistribution obligations. Full license texts and required
+    materials are provided in the distribution package.
+
+--------------------------------------------------------------------------------
+4. WARRANTY AND LIABILITY
+--------------------------------------------------------------------------------
+
+4.1 Slate is provided free of charge.
+
+4.2 To the extent permitted by applicable law, Slate is provided "AS IS",
+    without warranty of any kind, express or implied, including but not limited
+    to warranties of merchantability, fitness for a particular purpose, and
+    non-infringement.
+
+4.3 To the extent permitted by applicable law, Arintail Media Productions and
+    the developer shall not be liable for any indirect, incidental, special,
+    consequential, or punitive damages, or for any loss of data, profits, or
+    revenue, arising from the use of or inability to use Slate.
+
+4.4 Nothing in this license excludes or restricts liability or remedies that
+    cannot legally be excluded or restricted under applicable law, including
+    liability for fraud, gross negligence, or willful misconduct where such
+    exclusion is prohibited.
+
+4.5 This license does not claim absolute immunity from lawsuits or legal
+    claims, and does not guarantee protection against every legal dispute.
+
+4.6 This license is not legal advice. Users with legal questions should
+    consult a qualified legal professional.
+
+--------------------------------------------------------------------------------
+5. BREACH AND TERMINATION
+--------------------------------------------------------------------------------
+
+5.1 If a party believes the other has materially breached this license, the
+    non-breaching party should provide written notice describing the breach
+    and, where appropriate, allow a reasonable opportunity to remedy it.
+
+5.2 If the breach is not remedied within a reasonable period, or if the
+    breach is not capable of remedy, this license may be terminated.
+
+5.3 Upon termination, you must cease using and delete all copies of Slate in
+    your possession, except where applicable law requires otherwise.
+
+5.4 Termination does not affect rights or remedies that have already vested,
+    nor does it affect obligations that cannot legally be excluded or
+    restricted.
+
+5.5 Nothing in this section limits remedies available under applicable law
+    for fraud, gross negligence, or willful misconduct.
+
+--------------------------------------------------------------------------------
+6. GOVERNING LAW
+--------------------------------------------------------------------------------
+
+This license is governed by the laws of India, subject to applicable mandatory
+laws, consumer protection provisions, and other legal requirements that cannot
+be excluded or restricted by agreement.
+
+No exclusive court, district, or jurisdiction is specified. Disputes should
+be resolved in accordance with applicable law and, where possible, through
+good-faith negotiation before formal proceedings.
+
+If any provision is found unenforceable, the remaining provisions remain in
+effect to the fullest extent permitted by law.
+
+--------------------------------------------------------------------------------
+7. ENTIRE AGREEMENT
+--------------------------------------------------------------------------------
+
+This license constitutes the entire agreement between you and Arintail Media
+Productions regarding Slate. It supersedes any prior agreements or
+understandings relating to Slate.
+
+================================================================================
+END OF ARINTAIL FREE USE LICENSE (AFUL-1.0)
+================================================================================
