@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img alt="Release" src="https://img.shields.io/badge/release-v1.0.0-2563eb" />
+  <img alt="Release" src="https://img.shields.io/badge/release-v1.0.1-2563eb" />
   <img alt="Platform" src="https://img.shields.io/badge/platform-Windows-0ea5e9" />
   <img alt="Price" src="https://img.shields.io/badge/price-Free-16a34a" />
   <img alt="License" src="https://img.shields.io/badge/license-AFUL--1.0-f59e0b" />
